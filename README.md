@@ -11,9 +11,7 @@ A web application that generates template code for cn-infra based plugins.
 _Will update soon_
 
 ## Contributing
-Anthony Campos
-Kevin Velasquez
-Sabrina Tsui
+
 ---
 
 _Will update soon_
