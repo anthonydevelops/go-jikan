@@ -6,7 +6,11 @@ Inspired by a Stanford challenge found [here](http://nifty.stanford.edu/2018/mal
 
 ## Todo
 
-_Will update soon_
+- [x] Take in user input for start & end pages
+- [ ] Parse HTML pages for links on Wikipedia
+- [ ] Analyze links to find most optimal link to take
+- [ ] Set timer to track time traversing to the end page
+- [ ] Refactor (goroutines, etc)
 
 ## Quickstart
 
